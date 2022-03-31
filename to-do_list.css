@@ -1,0 +1,35 @@
+.header{
+  margin: auto;
+  background-image: url(https://cdn.pixabay.com/photo/2017/10/10/07/48/hills-2836301__340.jpg);
+  width: 100%;
+  max-width: 400px;
+}
+.container {
+ margin: auto;
+ max-width: 400px;
+ width: 100%;
+ background: beige;
+ border-radius: 15px;
+ padding: 15px;
+ }
+
+ul {
+  display: inline;
+  padding: 0;
+}
+
+body {
+  padding-top: 100px;
+  background-image: linear-gradient(#bdc3c7, #2c3e50);
+  background-repeat: no-repeat;
+  background-size: auto;
+  margin: 0;
+  background-attachment: fixed;
+  }
+.title {
+  font-family:cursive;
+  font-size: 40px;
+}
+li{
+  list-style-type: none;
+}
